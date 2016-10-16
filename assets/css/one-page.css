@@ -1,0 +1,10 @@
+.header{
+	/*background: url('../../images/fotos-abertura-loja.png');*/
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	color: #373435 !important;
+	text-transform: uppercase;
+}

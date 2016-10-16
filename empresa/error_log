@@ -1,0 +1,23 @@
+[16-Oct-2016 02:43:49 CST6CDT] PHP Parse error:  syntax error, unexpected '$ConfigProtese' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 35
+[16-Oct-2016 02:45:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/frete1503/public_html/empresa/passaporte.php on line 49
+[16-Oct-2016 02:46:20 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/frete1503/public_html/empresa/passaporte.php on line 44
+[16-Oct-2016 02:46:42 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/frete1503/public_html/empresa/passaporte.php on line 46
+[16-Oct-2016 02:46:44 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/frete1503/public_html/empresa/passaporte.php on line 46
+[16-Oct-2016 02:59:29 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frete1503/public_html/empresa/passaporte.php:23) in /home/frete1503/public_html/empresa/passaporte.php on line 29
+[16-Oct-2016 02:59:29 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frete1503/public_html/empresa/passaporte.php:23) in /home/frete1503/public_html/empresa/passaporte.php on line 34
+[16-Oct-2016 03:15:16 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/frete1503/public_html/empresa/index.php on line 3
+[16-Oct-2016 03:15:35 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/frete1503/public_html/empresa/index.php on line 3
+[16-Oct-2016 03:15:52 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/frete1503/public_html/empresa/index.php:3) in /home/frete1503/public_html/empresa/index.php on line 11
+[16-Oct-2016 03:16:00 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/frete1503/public_html/empresa/index.php:3) in /home/frete1503/public_html/empresa/index.php on line 11
+[16-Oct-2016 03:17:28 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/frete1503/public_html/empresa/index.php:3) in /home/frete1503/public_html/empresa/index.php on line 11
+[16-Oct-2016 03:17:36 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frete1503/public_html/empresa/passaporte.php:33) in /home/frete1503/public_html/empresa/passaporte.php on line 34
+[16-Oct-2016 04:19:53 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/frete1503/public_html/empresa/passaporte.php on line 25
+[16-Oct-2016 04:20:10 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/frete1503/public_html/empresa/passaporte.php on line 25
+[16-Oct-2016 06:30:40 CST6CDT] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 19
+[16-Oct-2016 06:36:05 CST6CDT] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 19
+[16-Oct-2016 06:36:17 CST6CDT] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 19
+[16-Oct-2016 06:36:23 CST6CDT] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 19
+[16-Oct-2016 06:37:01 CST6CDT] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 19
+[16-Oct-2016 06:37:10 CST6CDT] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/frete1503/public_html/empresa/passaporte.php on line 19
+[16-Oct-2016 06:38:00 CST6CDT] PHP Fatal error:  Call to a member function query() on null in /home/frete1503/public_html/empresa/passaporte.php on line 20
+[16-Oct-2016 06:39:19 CST6CDT] PHP Fatal error:  Call to a member function query() on null in /home/frete1503/public_html/empresa/passaporte.php on line 20
